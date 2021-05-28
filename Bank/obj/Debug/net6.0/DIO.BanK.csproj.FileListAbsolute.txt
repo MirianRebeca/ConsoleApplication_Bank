@@ -1,0 +1,32 @@
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.exe
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.deps.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.runtimeconfig.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.runtimeconfig.dev.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\ref\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\bin\Debug\net6.0\DIO.BanK.pdb
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.csproj.AssemblyReference.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.AssemblyInfoInputs.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.AssemblyInfo.cs
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.csproj.CoreCompileInputs.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\ref\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.pdb
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK\obj\Debug\net6.0\DIO.BanK.genruntimeconfig.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.csproj.AssemblyReference.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.AssemblyInfoInputs.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.AssemblyInfo.cs
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.csproj.CoreCompileInputs.cache
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\ref\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.pdb
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.exe
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.deps.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.runtimeconfig.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.runtimeconfig.dev.json
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\ref\DIO.BanK.dll
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\bin\Debug\net6.0\DIO.BanK.pdb
+C:\Users\miria\Desktop\DIO\.Net Fundamentals\DIO.BanK - Copia\obj\Debug\net6.0\DIO.BanK.genruntimeconfig.cache
